@@ -1,0 +1,5 @@
+usr/include/czmq++/*.hpp
+usr/include/czmq++/impl/*.ipp
+usr/lib/*/lib*.a
+usr/lib/*/lib*.so
+usr/lib/*/pkgconfig/*.pc
